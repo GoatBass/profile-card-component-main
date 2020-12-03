@@ -1,0 +1,18 @@
+
+html {
+    font-size: 18px;
+}
+
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    background: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg');
+
+}
+
+#top-bg-card {
+    background: url('/images/bg-pattern-card.svg');
+}
+
+div > img {
+    top: -48px;
+}
